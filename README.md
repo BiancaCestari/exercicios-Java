@@ -1,2 +1,15 @@
-# exercicios-Java
-Exercicios básicos em Java para prática de lógica  e estrutura condicional 
+# Exercícios em Java 
+
+Repositório criado para armazenar exercícios básicos em Java,
+com foco em lógica de programação e estruturas condicionais.
+
+## Conteúdos praticados
+- Variáveis
+- if / else
+- Operadores lógicos
+- Organização de código
+
+## Exercícios
+- Classificação de nota
+
+
