@@ -11,5 +11,6 @@ com foco em lógica de programação e estruturas condicionais.
 
 ## Exercícios
 - Classificação de nota
+- Número Par ou Ímpar
 
 
