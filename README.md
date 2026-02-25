@@ -8,9 +8,12 @@ com foco em lógica de programação e estruturas condicionais.
 - if / else
 - Operadores lógicos
 - Organização de código
+- Entrada de dados com scanner
+- Métodos e classes
 
 ## Exercícios
 - Classificação de nota
 - Número Par ou Ímpar
+- Cadastro de cliente
 
 
